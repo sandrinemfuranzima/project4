@@ -1,4 +1,4 @@
-# Thepizzas
+# The pizzas
 # Author:
 mfuranzima sandrine
 
@@ -12,8 +12,8 @@ https://sandrinemfuranzima.github.io/thepizzas/
 
 
 # Technologies Used
-HTML5
-CSS
-Bootstrap
-Javascript
-markdown
+* HTML5
+* CSS
+* Bootstrap
+* Javascript
+* markdown
