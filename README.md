@@ -8,7 +8,6 @@ This is a web application for The pizzas which is a pizza selling venture, that 
 # Live Page
 https://sandrinemfuranzima.github.io/thepizzas/
 
-
 # Technologies Used
 * HTML5
 * CSS
