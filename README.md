@@ -1,5 +1,5 @@
 # thepizzas
-#Author:
+# Author:
 mfuranzima sandrine
 
 # Description
@@ -8,7 +8,7 @@ This is a web application for The pizzas which is a pizza selling venture, that 
 
 
 # Live Page
-https://Owiti-charles.github.io/Pizza-Deliciosa
+https://sandrinemfuranzima.github.io/thepizzas/
 
 
 # Technologies Used
