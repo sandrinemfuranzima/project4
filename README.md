@@ -1,4 +1,4 @@
-# thepizzas
+# Thepizzas
 # Author:
 mfuranzima sandrine
 
